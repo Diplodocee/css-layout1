@@ -20,7 +20,8 @@ body {
 }
 
 .box img {
-  border 10px green;
+  border-style: solid;
+  border-width: medium;
 }
 
 .box a.read-more {
