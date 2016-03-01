@@ -42,6 +42,10 @@ h1 small {
   text-decoration: underline;
 }
 
+.floater {
+  background-color: #eee;
+}
+
 .footer {
   background-color: #999;
   color: #fff;
