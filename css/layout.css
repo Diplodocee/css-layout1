@@ -44,12 +44,11 @@ body {
 
 .floater {
     position: fixed;
-    bottom: 0;
+    bottom: 80;
     right: 0;
     width: 300px;
     border: 3px solid black;
     padding: 20px;
-    margin-bottom: 40px;
 }
 
 .footer {
