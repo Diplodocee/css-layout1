@@ -15,6 +15,7 @@ body {
 }
 
 .box {
+  margin-top: 100px;
   float: left;
   float: top;
   width: 30%;
@@ -33,7 +34,6 @@ body {
 }
 
 .box:hover {
-  margin-top: 100px;
   border-style: dashed;
   border-width: 10px;
   border-color: orange;
@@ -49,7 +49,7 @@ body {
     width: 300px;
     border: 3px solid black;
     padding: 20px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .footer {
