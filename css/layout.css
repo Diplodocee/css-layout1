@@ -24,6 +24,11 @@ body {
   border-width: 10px;
 }
 
+.box hover {
+  border-style: dashed;
+  border-color: orange;
+}
+
 .box a.read-more {
 }
 
