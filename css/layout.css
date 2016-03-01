@@ -24,7 +24,7 @@ body {
   border-width: 2px;
 }
 
-.box hover {
+.box:hover {
   border-style: dashed;
   border-width: 10px;
   border-color: orange;
