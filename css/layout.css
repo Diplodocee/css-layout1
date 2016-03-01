@@ -6,15 +6,17 @@ body {
 
 .heading {
   position:fixed;
-  top:30;
-  left:20;
-  right:20;
+  top: 30px;
+  left: 20px;
+  width: 100%;
 }
 
 .heading h1 {
 }
 
 .box {
+  float: left;
+  width: 30%;
 }
 
 .box:last-child {
